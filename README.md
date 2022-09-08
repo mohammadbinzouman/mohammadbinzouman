@@ -1,12 +1,21 @@
 # Hi, I'm Mohammad <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <table>
-  <tr>
+   <tr>
     <td valign="center">
-      🎓 I am currently pursuing my **Bachelor's in Computer Science**.
-      🌱 I am interested in **Machine Learning**.
-      🎯 I want to do projects that I find interesting.
+      🎓 I am currently a fresh **Computer Science** graduate.
     </td>
-  </tr>
+   </tr>
+   <tr>
+    <td valign="center">
+      🌱 I am interested in **Machine Learning**.
+    <td>
+   </tr>
+   <tr>
+    <td valign="center">
+      🎯 I want to do projects that I find interesting.
+    <td>
+   </tr>
  </table>
+
 
 
