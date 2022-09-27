@@ -8,11 +8,11 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🌱 I’m currently Working on a project.
+- 🌱 I’m currently Working on a **Future Sales Prediction** project.
 
 - 🤝 I’m currently looking for a full-time job.
 
-- 🌱 I’m currently learning Machine Learning, Deep Learning and Data Analysis.
+- 🌱 I’m currently learning Machine Learning, Deep Learning and Data Science.
 
 - 📫 How to reach me **mohammadbinzouman@gmail.com**
 
@@ -27,5 +27,7 @@
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/mohammadbinzouman">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
  </div>
+
+<br/>
 
 Last Edited on: 27/09/2022
