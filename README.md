@@ -8,7 +8,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🌱 I’m currently Working on a **Future Sales Prediction** project.
+- 🌱 I’m currently working on a **Future Sales Prediction** project.
 
 - 🤝 I’m currently looking for a full-time job.
 
@@ -30,4 +30,4 @@
 
 <br/>
 
-Last Edited on: 27/09/2022
+Last Edited on: 13/10/2022
