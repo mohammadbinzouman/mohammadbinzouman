@@ -14,7 +14,7 @@
 
 - 🤝 I’m currently looking for a full-time job.
 
-- 🌱 I’m currently learning Machine Learning, Deep Learning and Data Science.
+- 🌱 I’m currently learning more about Machine Learning, Deep Learning and Data Science.
 
 - 📫 How to reach me **mohammadbinzouman@gmail.com**
 
