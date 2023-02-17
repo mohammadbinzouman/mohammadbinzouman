@@ -10,7 +10,7 @@
 
 <br/>
 
-- 🌱 I’m currently working on a **COVID-19 detection model using Tensorflow**.
+- 🌱 I’m currently working on a **voice classification model**.
 
 - 🤝 I’m currently looking for a full-time job.
 
@@ -52,4 +52,4 @@
 
 <br/>
 
-Last Edited on: 16/12/2022
+Last Edited on: 17/02/2023
